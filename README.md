@@ -2,7 +2,7 @@
 
 ## Description
 
-This is Module 19 of the adelaide uni coding boot camp, this applicaition demonstrates the use of progressive web applications (PWA) 
+This is Module 19 of the adelaide uni coding boot camp, this applicaition demonstrates the use of progressive web applications (PWA) with the use of systems such as Service Workers and IndexDB storage, to allow the website to function offline.
 
 ## Table of Contents 
 
